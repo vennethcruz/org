@@ -5,6 +5,9 @@
   "references": [
     {
       "path": "./apps/employee"
+    },
+    {
+      "path": "./apps/react/shell"
     }
   ]
 }
